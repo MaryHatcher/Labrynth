@@ -1,0 +1,110 @@
+@font-face {
+    font-family: "Avara-Bold";
+    src: url('fonts/Avara-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Director-Bold";
+    src: url('fonts/Director-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Director-Light";
+    src: url('fonts/Director-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Director";
+    src: url('fonts/Director-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Daubenton";
+    src: url('fonts/daubentonwebfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    margin:0;
+    background:black;
+}
+
+
+h1 {
+position: absolute;
+width: 582px;
+height: 28px;
+left: 349px;
+top: 205px;
+
+font-family: 'Director';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 128%;
+/* or 27px */
+
+text-align: center;
+
+color: #FFFFFF;
+    
+    
+
+}
+
+p {
+    position: absolute;
+    width: 993px;
+    height: 28px;
+    left: 143px;
+    top: 317px;
+    
+    font-family: 'Director';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 128%;
+    /* or 27px */
+    
+    text-align: center;
+    
+    color: #FFFFFF;    
+}
+
+a {
+    position: absolute;
+    width: 356px;
+    height: 28px;
+    left: 462px;
+    top: 458px;
+    
+    font-family: 'Director';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 128%;
+    /* or 27px */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+    transition: .5s ease-in-out;
+}
+
+a:hover {
+    text-shadow: 
+        0 0 5px #fff,
+        0 0 10px #fff,
+        0 0 20px #fff,
+        0 0 40px #fff;
+}
+
+
+
+/* 1280x720*/
+
